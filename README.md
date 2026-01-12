@@ -2,7 +2,7 @@
 
 This repository contains the analysis code for the paper:
 
-"**Integrative Epigenomic and Transcriptomic Analysis of Peripheral Blood in COVID-19 Vaccine Recipients Across Different Vaccine Platforms Reveals TGF-β-Mediated Exhaustion Mechanisms**"
+"**Integrative Epigenomic and Transcriptomic Analysis of Peripheral Blood Across Different SARS-CoV-2 Vaccine Recipients Reveals TGF-β-Mediated Exhaustion Mechanisms**"
 
 
 Abstract:
